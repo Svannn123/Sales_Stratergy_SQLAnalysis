@@ -1,6 +1,6 @@
 
 # Goal
-Derive a sales strategy for the vacum company from raw customer and review data.
+Derive a sales strategy for the vacuum company from raw customer and review data.
 
 
 # Sales Strategy SQL Analysis/ Idea used 
